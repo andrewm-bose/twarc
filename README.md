@@ -1,4 +1,4 @@
-twarc
+twarc - CLI hydrating twitter ID's - ie given an id, get the full details.
 =====
 
 [![Build Status](https://secure.travis-ci.org/DocNow/twarc.png)](http://travis-ci.org/DocNow/twarc)
